@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Whats new?
 
 You can use the [editor on GitHub](https://github.com/cia-casa/IOS-Update-Next/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
